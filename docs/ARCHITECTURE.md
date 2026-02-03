@@ -507,7 +507,7 @@ Uses module-scope singleton array (same pattern as search index) with 10,000 ent
 2. **Synonyms** - "photo" should match "photograph", "Foto"
 3. **Fuzzy matching** - Typo tolerance using Levenshtein distance
 4. **Faceted search** - Count results by photographer/restriction without fetching all
-5. **Analytics** - Track popular queries, zero-result queries
+5. **Enhanced analytics** - Track zero-result queries, search trends over time
 
 ### Technical Debt
 
